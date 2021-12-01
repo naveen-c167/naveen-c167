@@ -2,7 +2,6 @@
 
 #### Discription:
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -33,8 +32,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=naveen-c167)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Stats:</h3>
-
-  <img src="https://activity-graph.herokuapp.com/graph?username=naveen-c167n&bg_color=0d1017&color=00ff00&point=11b819&area=false&line=00ff00&hide_border=true" alt="Contribution graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=naveen-c167&bg_color=0d1017&color=00ff00&point=11b819&area=false&line=00ff00&hide_border=true" alt="Contribution graph" />
   <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=naveen-c167&show_icons=true&theme=radical" alt="Stats" /> 
   <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=naveen-c167&theme=radical" alt="Stats" />
   </p>
